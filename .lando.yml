@@ -1,0 +1,8 @@
+name: beejee-app
+recipe: lamp
+config:
+  webroot: public
+  xdebug: true
+#services:
+#  appserver:
+#    type: nginx
